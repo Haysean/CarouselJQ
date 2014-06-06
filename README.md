@@ -1,4 +1,4 @@
 CarouselJq
 ==========
 
-A simple and easy to implement JQuery carousel, designed with responsive frame works in mind.
+A simple and easy to implement JQuery carousel, designed with responsive frameworks in mind.
